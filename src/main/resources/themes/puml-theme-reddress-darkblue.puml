@@ -198,9 +198,9 @@ skinparam storage {
 }
 
 <style>
-    node {
-        LineColor fff
-    }
+node {
+		LineColor fff
+}
 </style>
 
 @enduml
