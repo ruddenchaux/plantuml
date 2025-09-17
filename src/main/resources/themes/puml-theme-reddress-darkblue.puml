@@ -32,17 +32,17 @@ skinparam backgroundColor transparent
 
 !procedure basic_style()
   backgroundColor $BOXBG
-  borderColor $BORDERCOLOR
+	lineColor $BORDERCOLOR
 !endprocedure
 
 !procedure light_style()
   backgroundColor $LIGHTBG
-  borderColor $LIGHTBORDERCOLOR
+  lineColor $LIGHTBORDERCOLOR
 !endprocedure
 
 !procedure accent_style()
   backgroundColor $ACCENT
-  borderColor $ACCENTDARK
+  lineColor $ACCENTDARK
 !endprocedure
 
 !procedure arrow_style()
