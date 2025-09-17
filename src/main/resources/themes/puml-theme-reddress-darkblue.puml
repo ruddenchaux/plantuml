@@ -197,10 +197,10 @@ skinparam storage {
   font_style()
 }
 
-<style>
-node {
-  LineColor fff
-}
-</style>
+	<style>
+  node {
+  	LineColor fff
+  }
+	</style>
 
 @enduml
