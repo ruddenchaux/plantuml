@@ -22,12 +22,6 @@ skinparam stereotypeCBackgroundColor $ACCENT
 !$LIGHTBG = "575757"
 skinparam backgroundColor transparent
 
-<style>
-    node {
-        LineColor fff
-    }
-</style>
-
 !procedure font_style()
   fontColor $PRIMARYFONTCOLOR
   fontName $FONTNAME
@@ -202,4 +196,11 @@ skinparam storage {
   basic_style()
   font_style()
 }
+
+<style>
+    node {
+        LineColor fff
+    }
+</style>
+
 @enduml
