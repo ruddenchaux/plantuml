@@ -22,7 +22,7 @@
 <style>
 /* Global styles */
 root {
-  BackGroundColor transparent
+  BackGroundColor 111
 }
 
 /* Common font and basic styling */
