@@ -8,7 +8,7 @@
 !$FONTSIZE = 11
 !endif
 
-skinparam backgroundColor 777
+skinparam backgroundColor transparent
 !$ACCENT = "1a66c2"
 !$ACCENTDARK = "002642"
 skinparam stereotypeCBackgroundColor $ACCENT
@@ -20,7 +20,7 @@ skinparam stereotypeCBackgroundColor $ACCENT
 !$BOXBG = "2e2e2e"
 !$LIGHTBORDERCOLOR = "767676"
 !$LIGHTBG = "575757"
-skinparam backgroundColor 777
+skinparam backgroundColor transparent
 
 !procedure font_style()
   fontColor $PRIMARYFONTCOLOR
