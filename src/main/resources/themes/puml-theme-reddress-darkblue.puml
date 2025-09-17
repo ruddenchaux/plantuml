@@ -1,14 +1,4 @@
----
-name: reddress-darkblue
-display_name: Reddress Darkblue 
-description: A dark blue style from "Red Dress"
-author: [Drakemor](https://github.com/Drakemor)
-release: 
-license: MIT
-version: 
-source: https://github.com/Drakemor/RedDress-PlantUML
-inspiration: 
----
+@startuml
 
 !if (%not(%variable_exists("$FONTNAME")))
 !$FONTNAME = "Verdana"
@@ -206,3 +196,4 @@ skinparam storage {
   basic_style()
   font_style()
 }
+@enduml
